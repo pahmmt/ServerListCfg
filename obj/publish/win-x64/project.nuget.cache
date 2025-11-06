@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DZqA25rVFfc=",
+  "success": true,
+  "projectFilePath": "E:\\VSProjects\\ServerList\\ServerList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PMT\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.19\\microsoft.net.illink.tasks.8.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

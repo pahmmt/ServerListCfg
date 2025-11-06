@@ -1,0 +1,16 @@
+E:\VSProjects\ServerList\bin\Release\net8.0-windows\win-x64\ServerList.exe
+E:\VSProjects\ServerList\bin\Release\net8.0-windows\win-x64\ServerList.deps.json
+E:\VSProjects\ServerList\bin\Release\net8.0-windows\win-x64\ServerList.runtimeconfig.json
+E:\VSProjects\ServerList\bin\Release\net8.0-windows\win-x64\ServerList.dll
+E:\VSProjects\ServerList\bin\Release\net8.0-windows\win-x64\ServerList.pdb
+E:\VSProjects\ServerList\obj\Release\net8.0-windows\win-x64\ServerList.Form1.resources
+E:\VSProjects\ServerList\obj\Release\net8.0-windows\win-x64\ServerList.csproj.GenerateResource.cache
+E:\VSProjects\ServerList\obj\Release\net8.0-windows\win-x64\ServerList.GeneratedMSBuildEditorConfig.editorconfig
+E:\VSProjects\ServerList\obj\Release\net8.0-windows\win-x64\ServerList.AssemblyInfoInputs.cache
+E:\VSProjects\ServerList\obj\Release\net8.0-windows\win-x64\ServerList.AssemblyInfo.cs
+E:\VSProjects\ServerList\obj\Release\net8.0-windows\win-x64\ServerList.csproj.CoreCompileInputs.cache
+E:\VSProjects\ServerList\obj\Release\net8.0-windows\win-x64\ServerList.dll
+E:\VSProjects\ServerList\obj\Release\net8.0-windows\win-x64\refint\ServerList.dll
+E:\VSProjects\ServerList\obj\Release\net8.0-windows\win-x64\ServerList.pdb
+E:\VSProjects\ServerList\obj\Release\net8.0-windows\win-x64\ServerList.genruntimeconfig.cache
+E:\VSProjects\ServerList\obj\Release\net8.0-windows\win-x64\ref\ServerList.dll
